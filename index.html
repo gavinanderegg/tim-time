@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="./echarts.min.js"></script>
-    <title>Tim Time — A simple chart by Gavin Anderegg</title>
+    <title>Tim Time — A quick and dirty chart by Gavin Anderegg</title>
     <meta name="author" content="Gavin Anderegg">
 </head>
 
@@ -195,7 +195,7 @@
 
         title: {
             text:         'Tim Time',
-            subtext:      'Apple stock price · hardware releases by month',
+            subtext:      'Apple product releases and stock value over Tim Cook\'s time as CEO to date',
             left:         'center',
             top:          14,
             textStyle:    { color: '#eee', fontSize: 20, fontWeight: 700 },
@@ -313,6 +313,7 @@
         width: 100%;
         height: 100%;
         background: #222;
+        overflow: hidden;
     }
 
     #chart {
