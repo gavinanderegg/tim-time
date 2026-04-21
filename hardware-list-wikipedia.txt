@@ -1,0 +1,1936 @@
+===2010s===
+==== 2010 ====
+[[File:IPad-WiFi-1stGen.jpg|thumb|200px|iPad]]
+[[File:AppleMagicTrackpad.jpg|thumb|200px|Magic Trackpad]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#D8D8F2
+| bgcolor=#FFF | March 31, 2010
+| [[AirPort Time Capsule|Time Capsule]] (3rd gen)
+| [[AirPort]], [[List of Apple drives|drives]]
+| June 21, 2011
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | April 3, 2010
+| [[iPad (1st generation)|iPad]] Wi-Fi
+| [[iPad]]
+| March 3, 2011
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | April 13, 2010
+| [[MacBook Pro]] (Mid 2010)
+| [[MacBook Pro]]
+| February 24, 2011
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | April 30, 2010
+| [[iPad (1st generation)|iPad]] Wi-Fi + 3G
+| [[iPad]]
+| March 2, 2011
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | May 18, 2010
+| [[MacBook (2006–2012)|MacBook]] (Mid 2010)
+| [[MacBook]]
+| rowspan="2" | July 20, 2011
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | June 15, 2010
+| [[Mac Mini]] (Mid 2010)
+| [[Mac Mini]]
+
+|- bgcolor=#CCFF99
+| rowspan=2 bgcolor=#FFF | June 24, 2010
+| [[iPhone 3GS]] (8 GB)
+| rowspan="2" | [[iPhone]]
+| September 12, 2012
+
+|- bgcolor=#CCFF99
+| [[iPhone 4]] (GSM) (16 & 32 GB)
+| October 4, 2011
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=4 | July 27, 2010
+| [[iMac]] (Mid 2010)
+| [[iMac]]
+| May 3, 2011
+
+|- bgcolor=#D8D8F2
+| [[Magic Trackpad]]
+| [[Apple pointing devices|Pointing devices]]
+| October 13, 2015
+
+|- bgcolor=#D8D8F2
+| [[Apple Battery Charger]]
+| Input Device Accessories
+| January 15, 2016
+
+|- bgcolor=#D8D8F2
+| [[Apple Cinema Display#LED Cinema Display|LED Cinema Display (27-inch)]]
+| [[Apple displays|Displays]]
+| December 2, 2013
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | August 9, 2010
+| [[Mac Pro]] (Mid 2010)
+| [[Mac Pro]]
+| June 11, 2012
+
+|- bgcolor=#FFE5E5
+| rowspan=5 bgcolor=#FFF | September 1, 2010
+| [[iPod Touch (4th generation)]] (8 & 64 GB)
+| rowspan="2" | [[iPod Touch]]
+| September 12, 2012
+
+|- bgcolor=#FFE5E5
+| [[iPod Touch (4th generation)]] (32 GB)
+| May 30, 2013
+
+|- bgcolor=#FFE5E5
+| [[iPod Nano]] (6th gen)
+| [[iPod Nano]]
+| September 12, 2012
+
+|- bgcolor=#FFE5E5
+| [[iPod Shuffle]] (4th gen)
+| [[iPod Shuffle]]
+| July 27, 2017
+
+|- bgcolor=#FFE5E5
+| [[Apple TV (device)|Apple TV]] (2nd gen)
+| [[Apple TV (device)|Apple TV]]
+| March 7, 2012
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | October 20, 2010
+| [[MacBook Air]] (Late 2010)
+| [[MacBook Air]]
+| July 20, 2011
+
+|}
+
+==== 2011 ====
+[[File:IPhone 4 Mock No Shadow PSD.png|thumb|200px|iPhone 4]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | February 10, 2011
+| [[iPhone 4]] (CDMA) (16 & 32 GB)
+| [[iPhone]]
+| October 4, 2011
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | February 24, 2011
+| [[MacBook Pro]] (Early 2011)
+| [[MacBook Pro]]
+| October 24, 2011
+
+|- bgcolor=#CCFF99
+| rowspan=2 bgcolor=#FFF | March 11, 2011
+| [[iPad 2]] (16 GB)
+| rowspan="2" | [[iPad]]
+| March 18, 2014
+
+|- bgcolor=#CCFF99
+| [[iPad 2]] (32 & 64 GB)
+| March 7, 2012
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | May 3, 2011
+| [[iMac]] (Mid 2011)
+| [[iMac]]
+| November 30, 2012
+
+|- bgcolor=#D8D8F2
+| rowspan=2 bgcolor=#FFF | June 21, 2011
+| [[AirPort Extreme|AirPort Extreme 802.11n]] (5th gen)
+| [[AirPort]]
+| rowspan="2" | June 10, 2013
+
+|- bgcolor=#D8D8F2
+| [[AirPort Time Capsule|Time Capsule]] (4th gen)
+| [[AirPort]], [[List of Apple drives|drives]]
+
+|- bgcolor=#95CEFE
+| rowspan=3 bgcolor=#FFF | July 20, 2011
+| [[MacBook Air (Intel-based)|MacBook Air]] (Mid 2011)
+| [[MacBook Air]]
+| June 11, 2012
+
+|- bgcolor=#95CEFE
+| [[Mac Mini]] (Mid 2011)
+| [[Mac Mini]]
+| October 23, 2012
+
+|- bgcolor=#D8D8F2
+| [[Apple Thunderbolt Display|Thunderbolt Display]]
+| [[Apple displays|Displays]]
+| June 23, 2016
+
+|- bgcolor=#CCFF99
+| rowspan=3 bgcolor=#FFF | October 14, 2011
+| [[iPhone 4]] (8 GB)
+| rowspan="3" | [[iPhone]]
+| rowspan="2" | September 10, 2013
+
+|- bgcolor=#CCFF99
+| [[iPhone 4S]] (16 GB)
+
+|- bgcolor=#CCFF99
+| [[iPhone 4S]] (32 & 64 GB)
+| September 12, 2012
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | October 24, 2011
+| [[MacBook Pro]] (Late 2011)
+| [[MacBook Pro]]
+| June 11, 2012
+
+|}
+
+==== 2012 ====
+[[File:Retina MB Pro.png|thumb|200px|MacBook Pro (Retina)]]
+[[File:IPhone 5.png|thumb|200px|iPhone 5]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| rowspan=2 bgcolor=#FFF | March 16, 2012
+| [[iPad (3rd generation)|iPad (3rd gen)]]
+| [[iPad]]
+| October 23, 2012
+
+|- bgcolor=#FFE5E5
+| [[Apple TV (device)|Apple TV]] (3rd gen)
+| [[Apple TV (device)|Apple TV]]
+| January 28, 2013
+
+|- bgcolor=#95CEFE
+| rowspan=6 bgcolor=#FFF | June 11, 2012
+| [[Mac Pro]] (Mid 2012)
+| [[Mac Pro]]
+| December 19, 2013
+
+|- bgcolor=#95CEFE
+| [[MacBook Air]] (Mid 2012)
+| [[MacBook Air]]
+| June 10, 2013
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, Mid 2012)
+| rowspan="3" | [[MacBook Pro]]
+| October 27, 2016
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (15-inch, Mid 2012)
+| October 22, 2013
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (Retina, Mid 2012)
+| February 13, 2013
+
+|- bgcolor=#D8D8F2
+| [[AirPort Express|AirPort Express 802.11n]] (2nd gen)
+| [[AirPort Express]]
+| April 26, 2018
+
+|- bgcolor=#FFE5E5
+| rowspan=2 bgcolor=#FFF | September 12, 2012
+| [[Apple headphones|EarPods with 3.5mm connector]]
+| [[Apple headphones|Headphones]]
+| current
+
+|- bgcolor=#FFE5E5
+| [[iPod Touch (4th generation)]] (16 GB)
+| [[iPod Touch]]
+| May 30, 2013
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | September 21, 2012
+| [[iPhone 5]]
+| [[iPhone]]
+| September 10, 2013
+
+|- bgcolor=#FFE5E5
+| rowspan=2 bgcolor=#FFF | October 11, 2012
+| [[iPod Touch (5th generation)]] (32 & 64 GB)
+| [[iPod Touch]]
+| July 15, 2015
+
+|- bgcolor=#FFE5E5
+| [[iPod Nano]] (7th gen)
+| [[iPod Nano]]
+| July 27, 2017
+
+|- bgcolor=#95CEFE
+| rowspan=2 bgcolor=#FFF | October 23, 2012
+| [[Mac Mini]] (Late 2012)
+| [[Mac Mini]]
+| October 16, 2014
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (Retina, 13-inch, Late 2012)
+| [[MacBook Pro]]
+| February 13, 2013
+
+|- bgcolor=#CCFF99
+| rowspan=4 bgcolor=#FFF | November 2, 2012
+| [[iPad Mini (1st generation)|iPad Mini]] Wi-Fi (16 GB)
+| rowspan="2" | [[iPad mini]]
+| June 19, 2015
+
+|- bgcolor=#CCFF99
+| [[iPad Mini (1st generation)|iPad Mini]] Wi-Fi (32 & 64 GB)
+| October 22, 2013
+
+|- bgcolor=#CCFF99
+| [[iPad (4th generation)|iPad (4th gen)]] Wi-Fi (16 GB)
+| rowspan="2" | [[iPad]]
+| October 16, 2014
+
+|- bgcolor=#CCFF99
+| [[iPad (4th generation)|iPad (4th gen)]] Wi-Fi (32 & 64 GB)
+| October 22, 2013
+
+|- bgcolor=#CCFF99
+| rowspan=4 bgcolor=#FFF | November 16, 2012
+| [[iPad Mini (1st generation)|iPad Mini]] Wi-Fi + Cellular (16 GB)
+| rowspan="2" | [[iPad mini]]
+| June 19, 2015
+
+|- bgcolor=#CCFF99
+| [[iPad Mini (1st generation)|iPad Mini]] Wi-Fi + Cellular (32 & 64 GB)
+| October 22, 2013
+
+|- bgcolor=#CCFF99
+| [[iPad (4th generation)|iPad (4th gen)]] Wi-Fi + Cellular (16 GB)
+| rowspan="2" | [[iPad]]
+| October 16, 2014
+
+|- bgcolor=#CCFF99
+| [[iPad (4th generation)|iPad (4th gen)]] Wi-Fi + Cellular (32 & 64 GB)
+| October 22, 2013
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | November 30, 2012
+| [[iMac]] (21.5-inch, Late 2012)
+| rowspan="2" | [[iMac]]
+| rowspan="2" | September 24, 2013
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | December 2012
+| [[iMac]] (27-inch, Late 2012)
+
+|}
+
+==== 2013 ====
+[[File:Mac Pro 2013 inside.png|thumb|[[Mac Pro]] (Cylinder), released December 19, 2013]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | January 28, 2013
+| [[Apple TV (device)|Apple TV]] (3rd generation Rev A)
+| [[Apple TV (device)|Apple TV]]
+| September 8, 2016
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | February 5, 2013
+| [[iPad (4th generation)|iPad (4th gen)]] (128 GB)
+| [[iPad]]
+| October 22, 2013
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | February 13, 2013
+| [[MacBook Pro]] (Retina, Early 2013)
+| [[MacBook Pro]]
+| October 22, 2013
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | May 30, 2013
+| [[iPod Touch (5th generation)|iPod Touch 16 GB (5th generation, Mid 2013)]]
+| [[iPod Touch]]
+| June 26, 2014
+
+|- bgcolor=#D8D8F2
+| rowspan=3 bgcolor=#FFF | June 10, 2013
+| [[AirPort Extreme#6th generation|AirPort Extreme 802.11ac]]
+| [[AirPort]]
+| rowspan="2" | April 26, 2018
+
+|- bgcolor=#D8D8F2
+| [[AirPort Time Capsule]] 802.11ac
+| [[AirPort]], [[List of Apple drives|drives]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Air (Intel-based)|MacBook Air]] (Mid 2013)
+| [[MacBook Air]]
+| April 29, 2014
+
+|- bgcolor=#CCFF99
+| rowspan=4 bgcolor=#FFF | September 20, 2013
+| [[iPhone 4S]] (8 GB)
+| rowspan="4" | [[iPhone]]
+| rowspan="2" | September 9, 2014
+
+|- bgcolor=#CCFF99
+| [[iPhone 5C]] (16 & 32 GB)
+
+|- bgcolor=#CCFF99
+| [[iPhone 5S]] (16 & 32 GB)
+| March 21, 2016
+
+|- bgcolor=#CCFF99
+| [[iPhone 5S]] (64 GB)
+| September 9, 2014
+
+|- bgcolor=#95CEFE
+| rowspan=2 bgcolor=#FFF | September 24, 2013
+| [[iMac]] (21.5-inch, Late 2013)
+| rowspan="2" | [[iMac]]
+| June 18, 2014
+
+|- bgcolor=#95CEFE
+| [[iMac]] (27-inch, Late 2013)
+| October 13, 2015
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | October 22, 2013
+| [[MacBook Pro]] (Retina, Late 2013)
+| [[MacBook Pro]]
+| July 29, 2014
+
+|- bgcolor=#CCFF99
+| rowspan=2 bgcolor=#FFF | November 1, 2013
+| [[iPad Air (1st generation)|iPad Air]] (16 & 32 GB)
+| rowspan="2" | [[iPad Air]]
+| March 21, 2016
+
+|- bgcolor=#CCFF99
+| [[iPad Air (1st generation)|iPad Air]] (64 & 128 GB)
+| October 16, 2014
+
+|- bgcolor=#CCFF99
+| rowspan=3 bgcolor=#FFF | November 12, 2013
+| [[iPad Mini 2]] (16 GB)
+| rowspan="3" | [[iPad mini]]
+| September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[iPad Mini 2]] (32 GB)
+| March 21, 2017
+
+|- bgcolor=#CCFF99
+| [[iPad Mini 2]] (64 & 128 GB)
+| October 16, 2014
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | December 19, 2013
+| [[Mac Pro]] (Late 2013)
+| [[Mac Pro]]
+| December 10, 2019
+
+|}
+
+==== 2014 ====
+[[File:IPhone6 silver frontface.png|thumb|200px|iPhone 6]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | March 18, 2014
+| [[iPhone 5C]] (8 GB)
+| [[iPhone]]
+| September 9, 2015
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | April 29, 2014
+| [[MacBook Air (Intel-based)|MacBook Air]] (Early 2014)
+| [[MacBook Air]]
+| March 9, 2015
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | June 18, 2014
+| [[IMac (Intel-based)|iMac]] (21.5-inch, Mid 2014)
+| [[iMac]]
+| June 5, 2017
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | June 26, 2014
+| [[IPod Touch (5th generation)]] (16 GB)
+| [[iPod Touch]]
+| July 15, 2015
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | July 29, 2014
+| [[MacBook Pro]] (Retina, Mid 2014)
+| [[MacBook Pro]]
+| March 9, 2015
+
+|- bgcolor=#CCFF99
+| rowspan=4 bgcolor=#FFF | September 19, 2014
+| [[iPhone 6]] (16 & 64 GB)
+| rowspan="4" | [[iPhone]]
+| rowspan="2" | September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[iPhone 6 Plus]] (16 & 64 GB)
+
+|- bgcolor=#CCFF99
+| [[iPhone 6]] (128 GB)
+| rowspan="2" | September 9, 2015
+
+|- bgcolor=#CCFF99
+| [[iPhone 6 Plus]] (128 GB)
+
+|- bgcolor=#95CEFE
+| rowspan=2 bgcolor=#FFF | October 16, 2014
+| [[IMac (Intel-based)|iMac]] (Retina 5K, 27-inch, Late 2014)
+| [[iMac]]
+| October 13, 2015
+
+|- bgcolor=#95CEFE
+| [[Mac Mini]] (Late 2014)
+| [[Mac Mini]]
+| October 30, 2018
+
+|- bgcolor=#CCFF99
+| rowspan=3 bgcolor=#FFF | October 22, 2014
+| [[iPad Air 2]] (16 & 64 GB)
+| rowspan="2" | [[iPad Air]]
+| September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[iPad Air 2]] (128 GB)
+| March 21, 2017
+
+|- bgcolor=#CCFF99
+| [[iPad Mini 3]]
+| [[iPad mini]]
+| September 9, 2015
+
+|}
+
+==== 2015 ====
+[[File:MacBook with Retina Display.png|thumb|Retina MacBook]]
+[[File:Apple Watch Demo.jpg|thumb|Apple Watch]]
+[[File:IPad Pro Mockup.png|thumb|12.9" iPad Pro]]
+
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=3 | March 9, 2015
+| [[MacBook Air (Intel-based)|MacBook Air]] (13-inch, Early 2015)
+| rowspan="2" | [[MacBook Air]]
+| June 5, 2017
+
+|- bgcolor=#95CEFE
+| [[MacBook Air (Intel-based)|MacBook Air]] (11-inch, Early 2015)
+| October 27, 2016
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (Retina, 13-inch, Early 2015)
+| [[MacBook Pro]]
+| June 5, 2017
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | April 10, 2015
+| [[12-inch MacBook|MacBook]] (Retina, 12-inch, Early 2015)
+| [[MacBook]]
+| April 19, 2016
+
+|- bgcolor=#CCFF99
+| rowspan=3 bgcolor=#FFF | April 24, 2015
+| [[Apple Watch]] (1st generation)
+| rowspan="3" | [[Apple Watch]]
+| rowspan="3" | September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Sport]] (1st generation)
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Edition]] (1st generation)
+
+|- bgcolor=#95CEFE
+| rowspan=2 bgcolor=#FFF | May 19, 2015
+| [[MacBook Pro]] (Retina, 15-inch, Mid 2015)
+| [[MacBook Pro]]
+| July 12, 2018
+
+|- bgcolor=#95CEFE
+| [[IMac (Intel-based)|iMac]] (Retina 5K, 27-inch, Mid 2015)
+| [[iMac]]
+| October 13, 2015{{cn|date=December 2024}}
+
+|- bgcolor=#FFE5E5
+| rowspan=2 bgcolor=#FFF | July 15, 2015
+| [[iPod Touch (6th generation)]] (32 GB and 128 GB)
+| rowspan="2" | [[iPod Touch]]
+| May 28, 2019
+
+|- bgcolor=#FFE5E5
+| [[iPod Touch (6th generation)]] (16 GB and 64 GB)
+| July 27, 2017
+
+|- bgcolor=#CCFF99
+| rowspan=3 bgcolor=#FFF | September 9, 2015
+| [[iPad Mini 4]] (16 GB and 64 GB)
+| rowspan="3" | [[iPad mini]]
+| September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[iPad Mini 4]] (32 GB)
+| March 21, 2017
+
+|- bgcolor=#CCFF99
+| [[iPad Mini 4]] (128 GB)
+| March 18, 2019
+
+|- bgcolor=#CCFF99
+| rowspan=4 bgcolor=#FFF | September 25, 2015
+| [[iPhone 6S]] (16 GB and 64 GB)
+| rowspan="4" | [[iPhone]]
+| September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[iPhone 6S]] (128 GB)
+| September 12, 2018
+
+|- bgcolor=#CCFF99
+| [[iPhone 6S|iPhone 6S Plus]] (16 GB and 64 GB)
+| September 7, 2016
+
+|- bgcolor=#CCFF99
+| [[iPhone 6S|iPhone 6S Plus]] (128 GB)
+| September 12, 2018
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=6 | October 13, 2015
+| [[IMac (Intel-based)|iMac]] (21.5-inch, Late 2015)
+| rowspan="3" | [[iMac]]
+| rowspan="3" | June 5, 2017
+
+|- bgcolor=#95CEFE
+| [[IMac (Intel-based)|iMac]] (Retina 4K, 21.5-inch, Late 2015)
+
+|- bgcolor=#95CEFE
+| [[IMac (Intel-based)|iMac]] (Retina 5K, 27-inch, Late 2015)
+
+|- bgcolor=#D8D8F2
+| [[Magic Mouse 2]] (Lightning)
+| rowspan="2" | [[Apple pointing devices|Pointing devices]]
+| rowspan="2" | October 28, 2024
+
+|- bgcolor=#D8D8F2
+| [[Magic Trackpad 2]] (Lightning)
+
+|- bgcolor=#D8D8F2
+| [[Magic Keyboard (Mac)|Magic Keyboard (first generation)]]
+| [[Apple keyboards|Keyboards]]
+| May 21, 2021
+
+|- bgcolor=#FFE5E5
+| rowspan="3" bgcolor="#FFF" | October 30, 2015
+| [[Apple TV (device)|Apple TV]] HD (previously Apple TV (4th generation)) (32 GB)
+| rowspan="3" | [[Apple TV (device)|Apple TV]]
+| October 18, 2022
+
+|- bgcolor=#FFE5E5
+| [[Apple TV (device)|Apple TV]] HD (previously Apple TV (4th generation)) (64 GB)
+| September 12, 2017
+
+|- bgcolor=#FFE5E5
+| [[Siri Remote]] (1st generation)
+| April 20, 2021
+
+|- bgcolor=#CCFF99
+| rowspan=3 bgcolor=#FFF | November 11, 2015
+| [[iPad Pro]] 12.9-inch (32 and 128 GB)
+| [[iPad Pro]]
+| June 5, 2017
+
+|- bgcolor=#CCFF99
+| [[Apple Pencil]] (1st generation)
+| [[Apple Pencil|Pencil]]
+| current
+
+|- bgcolor=#D8D8F2
+| [[Smart Keyboard]]
+| [[Apple keyboards|Keyboards]]
+| May 7, 2024
+|}
+
+==== 2016 ====
+[[File:AirPods (cropped).jpg|thumb|[[AirPods]]]]
+
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=3 | March 31, 2016
+| [[iPad Pro]] (9.7-inch)
+| rowspan="2" | [[iPad Pro]]
+| rowspan="2" | June 5, 2017
+
+|- bgcolor=#CCFF99
+| [[iPad Pro]] 12.9-inch (256 GB)
+
+|- bgcolor=#CCFF99
+| [[iPhone SE (1st generation)]] (16 & 64 GB)
+| [[iPhone]]
+| March 21, 2017
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | April 19, 2016
+| [[12-inch MacBook|MacBook]] (Retina, 12-inch, Early 2016)
+| [[MacBook]]
+| June 5, 2017
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | September 7, 2016
+| [[iPad Air 2]] (32 GB)
+| [[iPad Air]]
+| March 21, 2017
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=11 | September 16, 2016
+| [[iPhone 7]] (32 & 128 GB)
+| rowspan="4" | [[iPhone]]
+| September 10, 2019
+
+|- bgcolor=#CCFF99
+| [[iPhone 7]] (256 GB)
+| September 12, 2017
+
+|- bgcolor=#CCFF99
+| [[iPhone 7|iPhone 7 Plus]] (32 & 128 GB)
+| September 10, 2019
+
+|- bgcolor=#CCFF99
+| [[iPhone 7|iPhone 7 Plus]] (256 GB)
+| September 12, 2017
+
+|- bgcolor=#FFE5E5
+| [[EarPods]] with Lightning Connector
+| [[Apple headphones|Headphones]]
+| current
+
+|- bgcolor=#CCFF99
+| [[iPhone 6S]] (32 GB)
+| rowspan="2" | [[iPhone]]
+| rowspan="3" | September 12, 2018
+
+|- bgcolor=#CCFF99
+| [[iPhone 6S Plus]] (32 GB)
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 1]]
+| rowspan="4" | [[Apple Watch]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 2]]
+| rowspan="3" | September 12, 2017
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 2|Apple Watch Hermès Series 2]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 2|Apple Watch Edition Series 2]]
+
+|- bgcolor=#95CEFE
+| rowspan=3 bgcolor=#FFF | October 27, 2016
+| [[MacBook Pro]] (13-inch, 2016, Two Thunderbolt 3 ports)
+| rowspan="3" | [[MacBook Pro]]
+| rowspan="3" | June 5, 2017
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, 2016, Four Thunderbolt 3 ports)
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (15-inch, 2016)
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | October 28, 2016
+| [[Apple Watch Series 2|Apple Watch Nike+ Series 2]]
+| [[Apple Watch]]
+| September 12, 2017
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | December 19, 2016
+| [[AirPods]] (1st generation)
+| [[Apple headphones|Headphones]]
+| March 20, 2019
+
+|}
+
+==== 2017 ====
+[[File:IPhone X vector.svg|thumb|[[iPhone X]]]]
+[[File:IMac Pro.svg|thumb|[[iMac Pro]]]]
+
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | March 10, 2017
+| [[iPhone 6]] (32 GB)
+| rowspan="2" | [[iPhone]]
+| rowspan="2" | September 12, 2018
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=2 | March 24, 2017
+| [[iPhone SE (1st generation)]] (32 GB and 128 GB)
+
+|- bgcolor=#CCFF99
+| [[iPad (5th generation)]]
+| [[iPad]]
+| March 27, 2018
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=11 | June 5, 2017
+| [[iPad Pro]] (12.9-inch) (2nd generation)
+| rowspan="2" | [[iPad Pro]]
+| November 7, 2018
+
+|- bgcolor=#CCFF99
+| [[iPad Pro]] (10.5-inch)
+| March 18, 2019
+
+|- bgcolor=#95CEFE
+| [[MacBook Air (Intel-based)|MacBook Air]] (13-inch, 2017)
+| [[MacBook Air]]
+| rowspan="3" | July 9, 2019
+
+|- bgcolor=#95CEFE
+| [[12-inch MacBook|MacBook]] (Retina, 12-inch, 2017)
+| [[MacBook]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, 2017, Two Thunderbolt 3 ports)
+| rowspan="3" | [[MacBook Pro]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, 2017, Four Thunderbolt 3 ports)
+| rowspan="2" | July 12, 2018
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (15-inch, 2017)
+
+|- bgcolor=#95CEFE
+| [[iMac]] (21.5-inch, 2017)
+| rowspan="3" | [[iMac]]
+| October 30, 2021
+
+|- bgcolor=#95CEFE
+| [[IMac (Intel-based)|iMac]] (Retina 4K, 21.5-inch, 2017)
+| rowspan="2" | March 19, 2019
+
+|- bgcolor=#95CEFE
+| [[IMac (Intel-based)|iMac]] (Retina 5K, 27-inch, 2017)
+
+|- bgcolor=#D8D8F2
+| [[Magic Keyboard (Mac)|Magic Keyboard with Numeric Keypad]]
+| [[Apple keyboards|Keyboards]]
+| current
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF rowspan=9 | September 22, 2017
+| [[Apple TV 4K]] (1st generation)
+| [[Apple TV (device)|Apple TV]]
+| April 20, 2021
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 3]]
+| rowspan="4" | [[Apple Watch]]
+| September 7, 2022
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 3|Apple Watch Hermès Series 3]]
+| rowspan="2" | September 12, 2018
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 3|Apple Watch Edition Series 3]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 3|Apple Watch Nike+ Series 3]]
+| September 15, 2020
+
+|- bgcolor=#CCFF99
+| [[iPhone 8]] (64 GB)
+| rowspan="5" | [[iPhone]]
+| April 15, 2020
+
+|- bgcolor=#CCFF99
+| [[iPhone 8]] (256 GB)
+| September 10, 2019
+
+|- bgcolor=#CCFF99
+| [[iPhone 8|iPhone 8 Plus]] (64 GB)
+| April 15, 2020
+
+|- bgcolor=#CCFF99
+| [[iPhone 8|iPhone 8 Plus]] (256 GB)
+| September 10, 2019
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | November 3, 2017
+| [[iPhone X]]
+| September 12, 2018
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | December 14, 2017
+| [[iMac Pro]] (2017)
+| [[iMac]]
+| March 5, 2021
+
+|}
+
+==== 2018 ====
+[[File:An Apple HomePod speaker .png|thumb|[[HomePod]], released February 9, 2018]]
+[[File:MacBook Air (3rd generation, space gray).png|thumb|MacBook Air (Retina)]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | February 9, 2018
+| [[HomePod]] (first generation)
+| [[Apple speakers|Speakers]]
+| March 12, 2021
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | March 27, 2018
+| [[iPad (6th generation)]]
+| [[iPad]]
+| September 10, 2019
+
+|- bgcolor=#95CEFE
+| rowspan=2 bgcolor=#FFF | July 12, 2018
+| [[MacBook Pro]] (13-inch, 2018, Four Thunderbolt 3 ports)
+| rowspan="2" | [[MacBook Pro]]
+| rowspan="2" | May 21, 2019
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (15-inch, 2018)
+
+|- bgcolor=#CCFF99
+| rowspan=5 bgcolor=#FFF | September 21, 2018
+| [[Apple Watch Series 4]]
+| rowspan="3" | [[Apple Watch]]
+| rowspan="5" | September 10, 2019
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 4|Apple Watch Hermès Series 4]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 4|Apple Watch Nike+ Series 4]]
+
+|- bgcolor=#CCFF99
+| [[iPhone XS]]
+| rowspan="4" | [[iPhone]]
+
+|- bgcolor=#CCFF99
+| [[iPhone XS|iPhone XS Max]]
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=2 | October 26, 2018
+| [[iPhone XR]] (64 GB and 128 GB)
+| September 14, 2021
+
+|- bgcolor=#CCFF99
+| [[iPhone XR]] (256 GB)
+| September 10, 2019
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=7 | November 7, 2018
+| [[Apple Pencil]] (2nd generation)
+| [[Apple Pencil|Pencil]]
+| current
+
+|- bgcolor=#D8D8F2
+| [[Smart Keyboard Folio]]
+| [[Apple keyboards|Keyboards]]
+| May 7, 2024
+
+|- bgcolor=#CCFF99
+| [[iPad Pro]] 11-inch (1st generation)
+| rowspan="2" | [[iPad Pro]]
+| rowspan="2" | March 18, 2020
+
+|- bgcolor=#CCFF99
+| [[iPad Pro]] 12.9-inch (3rd generation)
+
+|- bgcolor=#95CEFE
+| [[MacBook Air (Intel-based)|MacBook Air]] (Retina, 13-inch, 2018)
+| [[MacBook Air]]
+| July 9, 2019
+
+|- bgcolor=#95CEFE
+| [[Mac Mini]] (2018) (Intel Core i3)
+| rowspan="2" | [[Mac Mini]]
+| November 17, 2020
+
+|- bgcolor=#95CEFE
+| [[Mac Mini]] (2018) (Intel Core i5 and i7)
+| January 17, 2023
+
+|}
+
+==== 2019 ====
+[[File:Apple Card.png|thumb|[[Apple Card]], released August 20, 2019]]
+[[File:Apple airpods pro case.jpg|thumb|[[AirPods Pro]], released October 30, 2019]]
+[[File:Apple Pro Display XDR and Mac Pro (2019 model) - 1.jpg|thumb|[[Mac Pro]] (2019) (R) and [[Pro Display XDR]] (L), released December 10, 2019]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=2 | March 18, 2019
+| [[iPad Air (3rd generation)]]
+| [[iPad Air]]
+| September 15, 2020
+
+|- bgcolor=#CCFF99
+| [[iPad Mini (5th generation)]]
+| [[iPad mini]]
+| September 14, 2021
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=2 | March 19, 2019
+| [[IMac (Intel-based)|iMac]] (Retina 4K, 21.5-inch, 2019)
+| rowspan="2" | [[iMac]]
+| April 20, 2021
+
+|- bgcolor=#95CEFE
+| [[IMac (Intel-based)|iMac]] (Retina 5K, 27-inch, 2019)
+| August 4, 2020
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | March 20, 2019
+| [[AirPods]] (2nd generation)
+| [[Apple headphones|Headphones]]
+| September 9, 2024
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=2 | May 21, 2019
+| [[MacBook Pro]] (13-inch, 2019, Four Thunderbolt 3 ports)
+| rowspan="2" | [[MacBook Pro]]
+| May 4, 2020
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (15-inch, 2019)
+| November 13, 2019
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | May 28, 2019
+| [[iPod Touch (7th generation)]]
+| [[iPod Touch]]
+| May 10, 2022
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=2 | July 9, 2019
+| [[MacBook Air (Intel-based)|MacBook Air]] (Retina, 13-inch, 2019)
+| [[MacBook Air]]
+| March 18, 2020
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, 2019, Two Thunderbolt 3 ports)
+| [[MacBook Pro]]
+| May 4, 2020
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | August 20, 2019
+| [[Apple Card]]
+| [[iPhone|iPhone accessories]]
+| current
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=9 | September 20, 2019
+| [[Apple Watch Series 5]]
+| rowspan="4" | [[Apple Watch]]
+| rowspan="4" | September 15, 2020
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 5|Apple Watch Hermès Series 5]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 5|Apple Watch Nike Series 5]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 5|Apple Watch Edition Series 5]]
+
+|- bgcolor=#CCFF99
+| [[iPhone 8]] (128 GB)
+| rowspan="5" | [[iPhone]]
+| rowspan="2" | April 15, 2020
+
+|- bgcolor=#CCFF99
+| [[iPhone 8|iPhone 8 Plus]] (128 GB)
+
+|- bgcolor=#CCFF99
+| [[iPhone 11]]
+| September 7, 2022
+
+|- bgcolor=#CCFF99
+| [[iPhone 11 Pro]]
+| rowspan="2" | October 13, 2020
+
+|- bgcolor=#CCFF99
+| [[iPhone 11 Pro|iPhone 11 Pro Max]]
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | September 25, 2019
+| [[iPad (7th generation)]]
+| [[iPad]]
+| September 15, 2020
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | October 30, 2019
+| [[AirPods Pro]] (1st generation)
+| [[Apple headphones|Headphones]]
+| September 7, 2022
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | November 13, 2019
+| [[MacBook Pro]] (16-inch, 2019)
+| [[MacBook Pro]]
+| October 18, 2021
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=2 | December 10, 2019
+| [[Mac Pro#Lattice tower or rack (2019)|Mac Pro (2019)]]
+| [[Mac Pro]]
+| June 5, 2023
+
+|- bgcolor=#CCFF99
+| [[Pro Display XDR]]
+| [[Apple displays|Displays]]
+| March 3, 2026
+
+|}
+
+===2020s===
+==== 2020 ====
+[[File:Apple HomePod mini.jpg|thumb|[[HomePod Mini]]]]
+[[File:Apple airpods max 1.jpg|thumb|[[AirPods Max]]]]
+[[File:Macbook Air M1 Silver PNG.png|thumb|[[MacBook Air (Apple silicon)|MacBook Air]] M1]]
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=4 | March 18, 2020
+| [[iPad Pro]] 11-inch (2nd generation)
+| rowspan="2" | [[iPad Pro]]
+| rowspan="2" | April 20, 2021
+
+|- bgcolor=#CCFF99
+| [[iPad Pro]] 12.9-inch (4th generation)
+
+|- bgcolor=#D8D8F2
+| [[Magic Keyboard for iPad]]
+| [[Apple keyboards|Keyboards]]
+| March 4, 2025
+
+|- bgcolor=#95CEFE
+| [[MacBook Air (Intel-based)|MacBook Air]] (Retina, 13-inch, 2020)
+| [[MacBook Air]]
+| November 17, 2020
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | April 24, 2020
+| [[iPhone SE (2nd generation)]]
+| [[iPhone]]
+| March 8, 2022
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=2 | May 4, 2020
+| [[MacBook Pro]] (13-inch, 2020, Four Thunderbolt 3 ports)
+| rowspan="2" | [[MacBook Pro]]
+| October 18, 2021
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, 2020, Two Thunderbolt 3 ports)
+| November 17, 2020
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF | August 4, 2020
+| [[IMac (Intel-based)|iMac]] (Retina 5K, 27-inch, 2020)
+| [[iMac]]
+| March 8, 2022
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=5 | September 18, 2020
+| [[Apple Watch Series 6]]
+| rowspan="4" | [[Apple Watch]]
+| rowspan="3" | October 8, 2021
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 6|Apple Watch Hermès Series 6]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Series 6|Apple Watch Nike Series 6]]
+
+|- bgcolor=#CCFF99
+| [[Apple Watch SE]]
+| September 7, 2022
+
+|- bgcolor=#CCFF99
+| [[iPad (8th generation)]]
+| [[iPad]]
+| September 14, 2021
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=3 | October 23, 2020
+| [[iPad Air (4th generation)]]
+| [[iPad Air]]
+| March 8, 2022
+
+|- bgcolor=#CCFF99
+| [[iPhone 12]]
+| rowspan="4" | [[iPhone]]
+| September 12, 2023
+
+|- bgcolor=#CCFF99
+| [[iPhone 12 Pro]]
+| September 14, 2021
+
+|- bgcolor=#CCFF99
+| rowspan="4" bgcolor="#FFF" | November 13, 2020
+| [[iPhone 12 mini]]
+| September 7, 2022
+
+|- bgcolor=#CCFF99
+| [[iPhone 12 Pro|iPhone 12 Pro Max]]
+| September 14, 2021
+
+|-bgcolor=#CCFF99
+| [[MagSafe (wireless charger)#MagSafe Charger|MagSafe Charger]] (15 W)
+| rowspan="2" | [[iPhone|iPhone accessories]]
+| September 9, 2024
+
+|- bgcolor=#CCFF99
+| [[MagSafe (wireless charger)#MagSafe Duo Charger|MagSafe Duo Charger]]
+| September 12, 2023
+
+|- bgcolor=#FFE5E5
+| rowspan="2" bgcolor="#FFF" | November 16, 2020
+| [[HomePod Mini]] (white)
+| rowspan="2" | [[Apple speakers|Speakers]]
+| current
+|-
+|- bgcolor=#FFE5E5
+| [[HomePod Mini]] (space gray)
+| July 15, 2024
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=3 | November 17, 2020
+| [[Mac Mini]] (M1, 2020)
+| [[Mac Mini]]
+| January 17, 2023
+
+|- bgcolor=#95CEFE
+| [[MacBook Air (Apple silicon)|MacBook Air]] (M1, 2020)
+| [[MacBook Air]]
+| March 4, 2024
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (13-inch, M1, 2020)
+| [[MacBook Pro]]
+| June 6, 2022
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | December 15, 2020
+| [[AirPods Max]] (first generation, Lightning)
+| [[Apple headphones|Headphones]]
+| September 9, 2024
+|}
+
+==== 2021 ====
+[[File:Apple AirTag.svg|thumb|[[AirTag]]]]
+[[File:M1 iMac blue model (cropped).jpg|thumb|[[iMac (Apple silicon)|iMac]] M1]]
+
+{| class="wikitable sortable"
+
+|-
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+|-
+|- bgcolor="#FFE5E5"
+| bgcolor="#FFF" | April 30, 2021
+| [[AirTag]] (1st generation)
+| [[iPhone|iPhone accessories]]
+| January 26, 2026
+
+|- bgcolor="#FFE5E5"
+| rowspan="8" bgcolor="#FFF" | May 21, 2021
+| [[Apple TV 4K]] (2nd generation)
+| rowspan="2" | [[Apple TV (device)|Apple TV]]
+| rowspan="2" | October 18, 2022
+
+|- bgcolor="#FFE5E5"
+| [[Siri Remote]] (2nd generation)
+
+|- bgcolor=#95CEFE
+| [[iMac (Apple silicon)|iMac]] (24-inch, M1, 2021)
+| [[iMac]]
+| October 30, 2023
+
+|- bgcolor=#95CEFE
+| [[Magic Keyboard (Mac)|Magic Keyboard (second generation, Lightning)]]
+| rowspan="3" | [[Apple keyboards|Keyboards]]
+| rowspan="3" | October 28, 2024
+
+|- bgcolor=#95CEFE
+| [[Magic Keyboard (Mac)|Magic Keyboard]] with Touch ID (Lightning)
+
+|- bgcolor=#95CEFE
+| [[Magic Keyboard (Mac)|Magic Keyboard]] with Touch ID and Numeric Keypad (Lightning)
+
+|- bgcolor=#CCFF99
+| [[iPad Pro (5th generation)|iPad Pro]] 11-inch (3rd generation)
+| rowspan="2" | [[iPad Pro]]
+| rowspan="2" | October 18, 2022
+
+|- bgcolor=#CCFF99
+| [[iPad Pro (5th generation)|iPad Pro]] 12.9-inch (5th generation)
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | July 13, 2021
+| [[MagSafe Battery Pack]]
+| [[iPhone|iPhone accessories]]
+| September 12, 2023
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=6 | September 24, 2021
+| [[iPad (9th generation)]]
+| [[iPad]]
+| May 7, 2024
+
+|- bgcolor=#CCFF99
+| [[iPad Mini (6th generation)]]
+| [[iPad mini]]
+| October 15, 2024
+
+|- bgcolor=#CCFF99
+| [[iPhone 13]]
+| rowspan="4" | [[iPhone]]
+| September 9, 2024
+
+|- bgcolor=#CCFF99
+| [[iPhone 13|iPhone 13 Mini]]
+| September 12, 2023
+
+|- bgcolor=#CCFF99
+| [[iPhone 13 Pro]]
+| rowspan="3" | September 7, 2022
+
+|- bgcolor=#CCFF99
+| [[iPhone 13 Pro|iPhone 13 Pro Max]]
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | October 8, 2021
+| [[Apple Watch Series 7]]
+| [[Apple Watch]]
+
+|- bgcolor=#FFE5E5
+| rowspan="8" bgcolor="#FFF" | October 26, 2021
+| [[AirPods]] (3rd generation)
+| rowspan="2" | [[Apple headphones|Headphones]]
+| September 9, 2024
+
+|- bgcolor=#FFE5E5
+| [[MagSafe (wireless charger)|MagSafe]] Charging Case for [[AirPods Pro]]
+| September 7, 2022
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, 2021)
+| rowspan="2" | [[MacBook Pro]]
+| rowspan="2" | January 17, 2023
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (16-inch, 2021)
+
+|- bgcolor=#FFE5E5
+| [[Apple Polishing Cloth]]
+| Cleaning aid
+| rowspan="4" | current
+
+|-bgcolor=#FFE5E5
+| [[HomePod Mini]] (yellow, orange, blue)
+| [[Apple speakers|Speakers]]
+|}
+
+==== 2022 ====
+[[File:Mac Studio (2022) front.jpg|thumb|[[Mac Studio]], first released March 18, 2022]]
+[[File:M2 Macbook Air Midnight model - 1.jpg|thumb|MacBook Air M2]]
+
+{| class="wikitable sortable"
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#D8D8F2
+| rowspan="4" bgcolor="#FFF" | March 18, 2022
+| [[Apple Studio Display]] (2022)
+| [[Apple displays|Displays]]
+| March 3, 2026
+
+|- bgcolor=#CCFF99
+| [[iPad Air (5th generation)]]
+| [[iPad]]
+| May 7, 2024
+|-
+|- bgcolor="#CCFF99"
+| [[iPhone SE (3rd generation)]]
+| [[iPhone]]
+| February 19, 2025
+
+|- bgcolor=#95CEFE
+| [[Mac Studio]] (2022)
+| [[Mac Studio]]
+| June 5, 2023
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF| June 24, 2022
+| [[MacBook Pro (Apple silicon)|MacBook Pro]] (13-inch, M2, 2022)
+| [[MacBook Pro]]
+| October 30, 2023
+|- bgcolor=#95CEFE
+| bgcolor=#FFF| July 15, 2022
+| [[MacBook Air (Apple silicon)|MacBook Air]] (M2, 2022)
+| [[MacBook Air]]
+| March 5, 2025
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF rowspan=5| September 16, 2022
+| [[Apple Watch|Apple Watch Series 8]]
+| rowspan="2" | [[Apple Watch]]
+| September 12, 2023
+
+|- bgcolor=#CCFF99
+| [[Apple Watch|Apple Watch SE (2nd generation)]]
+| September 9, 2025
+
+|- bgcolor=#CCFF99
+| [[iPhone 14]]
+| rowspan="3" | [[iPhone]]
+|  February 19, 2025
+
+|- bgcolor=#CCFF99
+| [[iPhone 14 Pro]]
+| rowspan="2" | September 12, 2023
+
+|- bgcolor=#CCFF99
+| [[iPhone 14 Pro|iPhone 14 Pro Max]]
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF rowspan=2| September 23, 2022
+| [[AirPods Pro]] (2nd generation, Lightning case)
+| [[Apple headphones|Headphones]]
+| September 12, 2023
+
+|- bgcolor=#CCFF99
+| [[Apple Watch Ultra]]
+| [[Apple Watch]]
+| September 12, 2023
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF| October 7, 2022
+| [[iPhone 14|iPhone 14 Plus]]
+| [[iPhone]]
+|  February 19, 2025
+
+|- bgcolor=D8D8F2
+| bgcolor=#fff rowspan=4 | October 26, 2022
+| [[Apple keyboards#Magic Keyboard for iPad|Magic Keyboard Folio]]
+| [[Apple keyboards|Keyboards]]
+| current
+
+|- bgcolor=#cf9
+| [[iPad (10th generation)]]
+| [[iPad]]
+| March 4, 2025
+
+|- bgcolor=#cf9
+| [[iPad Pro (6th generation)|iPad Pro]] 11-inch (4th generation)
+| rowspan="2" | [[iPad Pro]]
+| rowspan="2" | May 7, 2024
+
+|- bgcolor=#cf9
+| [[iPad Pro (6th generation)|iPad Pro]] 12.9-inch (6th generation)
+
+|- bgcolor=#FFE5E5
+| rowspan="2" bgcolor="#FFF" | November 4, 2022
+| [[Apple TV 4K]] (3rd generation)
+| rowspan="2" | [[Apple TV (device)|Apple TV]]
+| rowspan="2" | current
+
+|-bgcolor=#FFE5E5
+| [[Siri Remote]] (3rd generation)
+|}
+
+==== 2023 ====
+[[File:IPhone (Plus).jpg|thumb|[[iPhone 15]]]]
+[[File:IPhone Pro (Max).jpg|thumb|[[iPhone 15 Pro]]]]
+{| class="wikitable sortable"
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=3 | January 24, 2023
+| [[Mac Mini]] (2023)
+| [[Mac Mini]]
+| October 29, 2024
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, 2023)
+| rowspan="2" | [[MacBook Pro]]
+| rowspan="2" | October 30, 2023
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (16-inch, 2023)
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | February 3, 2023
+| [[HomePod]] (2nd generation)
+| [[Apple speakers|Speakers]]
+| current
+
+|-bgcolor=#95CEFE
+| bgcolor=#FFF rowspan=3 | June 13, 2023
+| [[Mac Studio]] (2023)
+| [[Mac Studio]]
+| March 5, 2025
+
+|-bgcolor=#95CEFE
+| [[Mac Pro]] (2023)
+| [[Mac Pro]]
+| March 26, 2026
+
+|-bgcolor=#95CEFE
+| [[MacBook Air]] (15-inch, M2, 2023)
+| [[MacBook Air]]
+| March 4, 2024
+
+|-bgcolor=#CCFF99
+| rowspan="8" bgcolor="#FFF" | September 22, 2023
+| [[Apple Watch|Apple Watch Series 9]]
+| rowspan="2" | [[Apple Watch]]
+| September 9, 2024
+
+|-bgcolor=#CCFF99
+| [[Apple Watch Ultra|Apple Watch Ultra 2]]
+| rowspan="3" | September 9, 2025
+
+|-bgcolor=#CCFF99
+| [[iPhone 15]]
+| rowspan="4" | [[iPhone]]
+
+|-bgcolor=#CCFF99
+| [[iPhone 15|iPhone 15 Plus]]
+
+|-bgcolor=#CCFF99
+| [[iPhone 15 Pro]]
+| rowspan="2" | September 9, 2024
+
+|-bgcolor=#CCFF99
+| [[iPhone 15 Pro|iPhone 15 Pro Max]]
+
+|- bgcolor=#FFE5E5
+| [[AirPods Pro]] (2nd generation, USB-C case)
+| rowspan="2" | [[Apple headphones|Headphones]]
+| September 9, 2025
+
+|- bgcolor=#FFE5E5
+| [[EarPods]] (USB-C)
+| current
+
+|- bgcolor=#CCFF99
+| bgcolor=#FFF | November 1, 2023
+| [[Apple Pencil]] (USB-C)
+| [[Apple Pencil|Pencil]]
+| current
+
+|- bgcolor=#95CEFE
+| rowspan="4" bgcolor="#FFF"| November 7, 2023
+| [[iMac (Apple silicon)|iMac]] (24-inch, M3, 2023)
+| [[iMac]]
+| October 28, 2024
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, M3, Nov 2023)
+| rowspan="3" | [[MacBook Pro]]
+| rowspan="3" | October 30, 2024
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, M3 Pro/M3 Max, Nov 2023)
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (16-inch, Nov 2023)
+|}
+
+==== 2024 ====
+[[File:AR- Apple Vision Pro (2023).png|thumb|[[Apple Vision Pro]]]]
+{| class="wikitable sortable"
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#FFF
+| February 2, 2024
+| [[Apple Vision Pro]]
+| Apple Vision Pro
+| October 15, 2025
+
+|- bgcolor=#95CEFE
+| rowspan="2" bgcolor="#FFF" | March 8, 2024
+| [[MacBook Air]] (13-inch, M3, 2024)
+| rowspan="2" | [[MacBook Air]]
+| rowspan="2" | March 5, 2025
+
+|- bgcolor=#95CEFE
+| [[MacBook Air]] (15-inch, M3, 2024)
+
+|- bgcolor=D8D8F2
+| rowspan="6" bgcolor="#FFF" | May 15, 2024
+| [[Apple keyboards#Magic Keyboard for iPad|Magic Keyboard for iPad Pro]]
+| [[Apple keyboards|Keyboards]]
+| current
+
+|- bgcolor=CCFF99
+| [[Apple Pencil Pro]]
+| [[Apple Pencil|Pencil]]
+| current
+
+|- bgcolor=CCFF99
+| [[iPad Air (M2)|iPad Air]] 11-inch (M2)
+| rowspan="2" | [[iPad Air]]
+| rowspan="2" | March 4, 2025
+
+|- bgcolor=CCFF99
+| [[iPad Air (M2)|iPad Air]] 13-inch (M2)
+
+|- bgcolor=CCFF99
+| [[iPad Pro (M4)|iPad Pro]] 11-inch (M4)
+| rowspan="2" | [[iPad Pro]]
+| rowspan="2" | October 15, 2025
+
+|- bgcolor=CCFF99
+| [[iPad Pro (M4)|iPad Pro]] 13-inch (M4)
+
+|- bgcolor=#FFE5E5
+| bgcolor=#FFF | July 15, 2024
+| [[HomePod Mini]] (midnight)
+| [[Apple speakers|Speakers]]
+| current
+
+|- bgcolor=#CCFF99
+| bgcolor="#FFF" | September 9, 2024
+| [[MagSafe (wireless charger)#MagSafe Charger|MagSafe Charger]] (25 W)
+| [[iPhone|iPhone accessories]]
+| September 9, 2025
+
+|- bgcolor="#FFE5E5"
+| rowspan="8" bgcolor="#FFF" | September 20, 2024
+| [[AirPods]] 4
+| rowspan="2" | [[Apple headphones|Headphones]]
+| current
+
+|-bgcolor=#FFE5E5
+| [[AirPods Max]] (first generation, USB-C)
+| March 16, 2026
+
+|-bgcolor=#CCFF99
+| [[Apple Watch|Apple Watch Series 10]]
+| rowspan="2" | [[Apple Watch]]
+| rowspan="2" | September 9, 2025
+
+|-bgcolor=#CCFF99
+| [[Apple Watch Ultra|Apple Watch Ultra 2]] (black)
+
+|-bgcolor=#CCFF99
+| [[iPhone 16]]
+| rowspan="4" | [[iPhone]]
+| rowspan="2" | current
+
+|-bgcolor=#CCFF99
+| [[iPhone 16|iPhone 16 Plus]]
+
+|-bgcolor=#CCFF99
+| [[iPhone 16 Pro]]
+| rowspan="2" | September 9, 2025
+
+|-bgcolor=#CCFF99
+| [[iPhone 16 Pro|iPhone 16 Pro Max]]
+
+|- bgcolor=#CCFF99
+| bgcolor="#FFF" | October 23, 2024
+| [[iPad Mini (A17 Pro)]]
+| [[iPad mini]]
+| current
+
+|- bgcolor="#D8D8F2"
+| rowspan="5" bgcolor="#FFF" | October 28, 2024
+| [[Magic Mouse 2]] (USB-C)
+| rowspan="2" | [[Apple pointing devices|Pointing devices]]
+| rowspan="5" | current
+
+|- bgcolor="#D8D8F2"
+| [[Magic Trackpad 2]] (USB-C)
+
+|- bgcolor="#D8D8F2"
+| [[Magic Keyboard (Mac)|Magic Keyboard]] (second generation, USB-C)
+| rowspan="3" | [[Apple keyboards|Keyboards]]
+
+|- bgcolor="#D8D8F2"
+| [[Magic Keyboard (Mac)|Magic Keyboard]] with Touch ID (USB-C)
+
+|- bgcolor="#D8D8F2"
+| [[Magic Keyboard (Mac)|Magic Keyboard]] with Touch ID and Numeric Keypad (USB-C)
+
+|- bgcolor="#95CEFE"
+| rowspan="5" bgcolor="#FFF" | November 8, 2024
+| [[iMac (Apple silicon)|iMac]] (24-inch, 2024)
+| [[iMac]]
+| rowspan="2" | current
+
+|- bgcolor=#95CEFE
+| [[Mac Mini]] (2024)
+| [[Mac Mini]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, M4, 2024)
+| rowspan="3" | [[MacBook Pro]]
+| October 15, 2025
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, M4 Pro/M4 Max, 2024)
+| rowspan="2" | March 3, 2026
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (16-inch, 2024)
+|}
+
+==== 2025 ====
+{| class="wikitable sortable"
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor=#CCFF99
+| bgcolor="#FFF" | February 28, 2025
+| [[iPhone 16e]]
+| [[iPhone]]
+| March 4, 2026
+
+|- bgcolor=D8D8F2
+| rowspan="7" bgcolor="#FFF" | March 12, 2025
+| [[Apple keyboards#Magic Keyboard for iPad|Magic Keyboard for iPad Air]]
+| [[Apple keyboards|Keyboards]]
+| current
+
+|- bgcolor=#CCFF99
+| [[iPad (11th generation)|iPad (A16)]]
+| [[iPad]]
+| current
+
+|- bgcolor=#CCFF99
+| [[iPad Air (M3)|iPad Air]] 11-inch (M3)
+| rowspan="2" |[[iPad Air]]
+| rowspan="2" | March 2, 2026
+
+|- bgcolor=#CCFF99
+| [[iPad Air (M3)|iPad Air]] 13-inch (M3)
+
+|- bgcolor=#95CEFE
+| [[MacBook Air]] (13-inch, M4, 2025)
+| rowspan="2" | [[MacBook Air]]
+| rowspan="2" | March 3, 2026
+
+|- bgcolor=#95CEFE
+| [[MacBook Air]] (15-inch, M4, 2025)
+
+|- bgcolor=#95CEFE
+| [[Mac Studio]] (2025)
+| [[Mac Studio]]
+| current
+
+|-bgcolor=#CCFF99
+| rowspan="2" bgcolor="#FFF"| September 9, 2025
+| [[MagSafe (wireless charger)#MagSafe Battery for iPhone Air|MagSafe Battery]]
+| rowspan="2" | [[iPhone|iPhone accessories]]
+| rowspan="2" | current
+
+|-bgcolor=#CCFF99
+| [[MagSafe (wireless charger)#MagSafe Charger|MagSafe Charger]] (25 W Qi2)
+
+|- bgcolor="#FFE5E5"
+| rowspan="8" bgcolor="#FFF" | September 19, 2025
+| [[AirPods Pro]] 3
+| [[Apple headphones|Headphones]]
+| current
+
+|-bgcolor=#CCFF99
+| [[Apple Watch|Apple Watch SE 3]]
+| rowspan="3" | [[Apple Watch]]
+| rowspan="9" | current
+
+|-bgcolor=#CCFF99
+| [[Apple Watch|Apple Watch Series 11]]
+
+|-bgcolor=#CCFF99
+| [[Apple Watch Ultra|Apple Watch Ultra 3]]
+
+|-bgcolor=#CCFF99
+| [[iPhone 17]]
+| rowspan="4" | [[iPhone]]
+
+|-bgcolor=#CCFF99
+| [[iPhone Air]]
+
+|-bgcolor=#CCFF99
+| [[iPhone 17 Pro]]
+
+|-bgcolor=#CCFF99
+| [[iPhone 17 Pro|iPhone 17 Pro Max]]
+
+|- bgcolor=CCFF99
+| rowspan="4" bgcolor="#FFF" | October 22, 2025
+| [[iPad Pro (M5)|iPad Pro]] 11-inch (M5)
+| rowspan="2" | [[iPad Pro]]
+
+|- bgcolor=CCFF99
+| [[iPad Pro (M5)|iPad Pro]] 13-inch (M5)
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, M5)
+| [[MacBook Pro]]
+| current
+
+|- bgcolor=#FFF
+| [[Apple Vision Pro]] (M5)
+| Apple Vision Pro
+| current
+|}
+
+==== 2026 ====
+{| class="wikitable sortable"
+! width="22%" | Released
+! width="34%" | Model
+! width="22%" | Family
+! width="22%" | Discontinued
+
+|- bgcolor="#FFE5E5"
+| bgcolor="#FFF"| January 26, 2026
+| [[AirTag]] (2nd generation)
+| [[iPhone accessories]]
+| current
+
+|- bgcolor=#CCFF99
+| rowspan="10" bgcolor="#FFF" | March 11, 2026
+| [[iPad Air (M4)|iPad Air]] 11-inch (M4)
+| rowspan="2" | [[iPad Air]]
+| rowspan="3" | current
+
+|- bgcolor=#CCFF99
+| [[iPad Air (M4)|iPad Air]] 13-inch (M4)
+
+|- bgcolor=#CCFF99
+| [[iPhone 17e]]
+| [[iPhone]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Air]] (13-inch, M5)
+| rowspan="2" | [[MacBook Air]]
+| rowspan="4" | current
+
+|- bgcolor=#95CEFE
+| [[MacBook Air]] (15-inch, M5)
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (14-inch, M5 Pro/M5 Max)
+| rowspan="2" | [[MacBook Pro]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Pro]] (16-inch, M5 Pro/M5 Max)
+
+|- bgcolor=#D8D8F2
+| [[Apple Studio Display]] (2026)
+| rowspan="2" | [[Apple displays|Displays]]
+| rowspan="2" | current
+
+|- bgcolor=#D8D8F2
+| [[Apple Studio Display XDR]]
+
+|- bgcolor=#95CEFE
+| [[MacBook Neo]]
+| [[MacBook Neo]]
+| current
+
+|- bgcolor=#FFE5E5
+| bgcolor="#FFF"| April 1, 2026
+| [[AirPods Max]] 2
+| [[Apple headphones|Headphones]]
+| current
+|}
