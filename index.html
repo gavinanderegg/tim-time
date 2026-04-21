@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="./echarts.min.js"></script>
     <title>Tim Time — A simple chart by Gavin Anderegg</title>
+    <meta name="author" content="Gavin Anderegg">
 </head>
 
 <body>
@@ -156,7 +157,7 @@
             stack:     'products',
             barWidth:  '80%',
             itemStyle: { color },
-            emphasis:  { focus: 'series' },
+            emphasis:  { focus: 'none' },
             data: months.map(month => [
                 `${month}-15`,
                 monthlyByCategory[month][name] || 0,
