@@ -1,0 +1,321 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="./echarts.min.js"></script>
+    <title>Tim Time — A simple chart by Gavin Anderegg</title>
+</head>
+
+<body>
+    <div id="chart"></div>
+</body>
+
+<script>
+(async function () {
+    // ── Load CSVs ─────────────────────────────────────────────────────────────
+    const [stockText, hardwareText] = await Promise.all([
+        fetch('./stock-values.csv').then(r => r.text()),
+        fetch('./hardware-list.csv').then(r => r.text()),
+    ]);
+
+    // ── Parse stock data ──────────────────────────────────────────────────────
+    // Format: date,high
+    const stockMap  = new Map(); // dateStr -> high value
+    const stockData = [];        // [[dateStr, value], ...]
+
+    stockText.trim().split('\n').slice(1).forEach(line => {
+        if (!line.trim()) return;
+        const i     = line.indexOf(',');
+        const date  = line.slice(0, i);
+        const value = parseFloat(line.slice(i + 1));
+        stockData.push([date, value]);
+        stockMap.set(date, value);
+    });
+
+    // ── Parse hardware data ───────────────────────────────────────────────────
+    // Format: Released,Model,Category
+    // Model names may contain commas, so take first field as date and last as category.
+    const hardwareItems = [];
+
+    hardwareText.trim().split('\n').slice(1).forEach(line => {
+        if (!line.trim()) return;
+        const parts    = line.split(',');
+        const date     = parts[0];
+        const category = parts[parts.length - 1];
+        const model    = parts.slice(1, -1).join(',');
+        hardwareItems.push({ date, model, category });
+    });
+
+    // ── Category order & colours ──────────────────────────────────────────────
+    const STOCK_COLOR = '#FFD60A';
+
+    const CATEGORIES = [
+        { name: 'iPhone',           color: '#0A84FF' },
+        { name: 'iPad',             color: '#5AC8FA' },
+        { name: 'Mac',              color: '#30D158' },
+        { name: 'Apple Watch',      color: '#FF9F0A' },
+        { name: 'AirPods',          color: '#FF375F' },
+        { name: 'iPod',             color: '#BF5AF2' },
+        { name: 'Apple TV',         color: '#32ADE6' },
+        { name: 'HomePod',          color: '#FF6B35' },
+        { name: 'Displays',         color: '#AC8E68' },
+        { name: 'Apple Vision Pro', color: '#64D2FF' },
+        { name: 'Other',            color: '#636366' },
+    ];
+
+    // ── Aggregate by month & category ─────────────────────────────────────────
+    const categoryCounts    = {};  // category -> total count
+    const monthlyByCategory = {};  // 'YYYY-MM' -> { category: count }
+    const productsByMonth   = new Map(); // 'YYYY-MM' -> [item, ...]
+
+    hardwareItems.forEach(({ date, model, category }) => {
+        const month = date.slice(0, 7);
+
+        categoryCounts[category] = (categoryCounts[category] || 0) + 1;
+
+        if (!monthlyByCategory[month]) monthlyByCategory[month] = {};
+        monthlyByCategory[month][category] = (monthlyByCategory[month][category] || 0) + 1;
+
+        if (!productsByMonth.has(month)) productsByMonth.set(month, []);
+        productsByMonth.get(month).push({ date, model, category });
+    });
+
+    const months = Object.keys(monthlyByCategory).sort();
+
+    // ── Helpers ───────────────────────────────────────────────────────────────
+    // Convert a timestamp (or date string) to a UTC YYYY-MM-DD string.
+    function toUTCDateStr(val) {
+        const d = (typeof val === 'number') ? new Date(val) : new Date(val + 'T00:00:00Z');
+        const y = d.getUTCFullYear();
+        const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+        const day = String(d.getUTCDate()).padStart(2, '0');
+        return `${y}-${m}-${day}`;
+    }
+
+    function utcDateLabel(dateStr, opts) {
+        return new Date(dateStr + 'T00:00:00Z').toLocaleDateString('en-US', { timeZone: 'UTC', ...opts });
+    }
+
+    function dot(color) {
+        return `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${color};margin-right:5px;flex-shrink:0;"></span>`;
+    }
+
+    // ── Tooltip formatter ─────────────────────────────────────────────────────
+    function tooltipFormatter(params) {
+        if (!params || !params.length) return '';
+
+        // Prefer the stock series for the hovered timestamp (daily resolution).
+        const stockParam = params.find(p => p.seriesName === 'Stock Price');
+        const raw        = stockParam ? stockParam.value[0] : params[0].value[0];
+        const dateStr    = toUTCDateStr(raw);
+        const monthStr   = dateStr.slice(0, 7);
+
+        const dateLabel  = utcDateLabel(dateStr,         { year: 'numeric', month: 'long', day: 'numeric' });
+        const monthLabel = utcDateLabel(monthStr + '-01', { year: 'numeric', month: 'long' });
+
+        let html = `<div style="font-weight:700;font-size:13px;margin-bottom:8px;">${dateLabel}</div>`;
+
+        // Stock price
+        if (stockParam) {
+            const v = stockParam.value[1];
+            html += `<div style="display:flex;align-items:center;margin-bottom:6px;">${dot(STOCK_COLOR)}<span>Stock High: <strong>$${v.toFixed(2)}</strong></span></div>`;
+        }
+
+        // Products released this month
+        const monthProducts = productsByMonth.get(monthStr);
+        if (monthProducts && monthProducts.length) {
+            html += `<div style="border-top:1px solid #3a3a5a;margin-top:8px;padding-top:8px;">
+                <div style="font-weight:600;margin-bottom:5px;">Released in ${monthLabel}:</div>`;
+
+            const byCategory = {};
+            monthProducts.forEach(p => {
+                if (!byCategory[p.category]) byCategory[p.category] = [];
+                byCategory[p.category].push(p);
+            });
+
+            CATEGORIES.forEach(({ name, color }) => {
+                if (!byCategory[name]) return;
+                const names = byCategory[name].map(p => p.model).join(', ');
+                html += `<div style="display:flex;align-items:baseline;margin:3px 0;">${dot(color)}<span><strong>${name}:</strong> ${names}</span></div>`;
+            });
+
+            html += '</div>';
+        }
+
+        return `<div style="max-width:420px;line-height:1.5;">${html}</div>`;
+    }
+
+    // ── Series ────────────────────────────────────────────────────────────────
+    // Bars are placed at the 15th so they sit visually centred within each month.
+    const barSeries = CATEGORIES
+        .filter(c => categoryCounts[c.name])
+        .map(({ name, color }) => ({
+            name:      `${name} (${categoryCounts[name]})`,
+            type:      'bar',
+            stack:     'products',
+            barWidth:  '80%',
+            itemStyle: { color },
+            emphasis:  { focus: 'series' },
+            data: months.map(month => [
+                `${month}-15`,
+                monthlyByCategory[month][name] || 0,
+            ]),
+        }));
+
+    const stockSeries = {
+        name:       'Stock Price',
+        type:       'line',
+        yAxisIndex: 1,
+        z:          10,
+        data:       stockData,
+        lineStyle:  { color: STOCK_COLOR, width: 1.5 },
+        itemStyle:  { color: STOCK_COLOR },
+        showSymbol: false,
+    };
+
+    // ── Legend ────────────────────────────────────────────────────────────────
+    const legendData = [
+        ...CATEGORIES
+            .filter(c => categoryCounts[c.name])
+            .map(({ name, color }) => ({
+                name:      `${name} (${categoryCounts[name]})`,
+                itemStyle: { color },
+            })),
+        { name: 'Stock Price', itemStyle: { color: STOCK_COLOR } },
+    ];
+
+    // ── Chart ─────────────────────────────────────────────────────────────────
+    const chart = echarts.init(document.getElementById('chart'));
+
+    chart.setOption({
+        backgroundColor: '#16213e',
+
+        title: {
+            text:         'Tim Time',
+            subtext:      'Apple stock price · hardware releases by month',
+            left:         'center',
+            top:          14,
+            textStyle:    { color: '#eee', fontSize: 20, fontWeight: 700 },
+            subtextStyle: { color: '#666', fontSize: 12 },
+        },
+
+        legend: {
+            type:                'scroll',
+            top:                 66,
+            data:                legendData,
+            textStyle:           { color: '#bbb', fontSize: 11 },
+            pageTextStyle:       { color: '#bbb' },
+            pageIconColor:       '#aaa',
+            pageIconInactiveColor: '#555',
+            inactiveColor:       '#444',
+        },
+
+        tooltip: {
+            trigger:     'axis',
+            axisPointer: {
+                type:      'line',
+                lineStyle: { color: '#4a4a6a', type: 'dashed', width: 1 },
+            },
+            backgroundColor: 'rgba(10, 14, 36, 0.96)',
+            borderColor:     '#3a3a5a',
+            borderWidth:     1,
+            padding:         [10, 14],
+            textStyle:       { color: '#ddd', fontSize: 12 },
+            formatter:       tooltipFormatter,
+            confine:         true,
+        },
+
+        grid: {
+            top:    120,
+            left:   56,
+            right:  68,
+            bottom: 72,
+        },
+
+        xAxis: {
+            type:      'time',
+            axisLine:  { lineStyle: { color: '#333' } },
+            axisLabel: { color: '#666', fontSize: 11 },
+            splitLine: { show: false },
+            axisTick:  { lineStyle: { color: '#333' } },
+        },
+
+        yAxis: [
+            {
+                // Left axis: product count (for stacked bars)
+                type:          'value',
+                name:          'Products released',
+                nameTextStyle: { color: '#777', fontSize: 11 },
+                axisLabel:     { color: '#666', fontSize: 11 },
+                splitLine:     { lineStyle: { color: '#1e2840', type: 'solid' } },
+                axisLine:      { show: false },
+                axisTick:      { show: false },
+                minInterval:   1,
+            },
+            {
+                // Right axis: stock price (for line)
+                type:          'value',
+                name:          'Stock price',
+                nameTextStyle: { color: STOCK_COLOR, fontSize: 11 },
+                axisLabel: {
+                    color:     STOCK_COLOR,
+                    fontSize:  11,
+                    formatter: v => `$${v.toFixed(0)}`,
+                },
+                splitLine: { show: false },
+                axisLine:  { show: false },
+                axisTick:  { show: false },
+            },
+        ],
+
+        dataZoom: [
+            { type: 'inside', start: 0, end: 100 },
+            {
+                type:        'slider',
+                bottom:      10,
+                height:      26,
+                borderColor: '#2a2a4a',
+                fillerColor: 'rgba(255, 214, 10, 0.07)',
+                handleStyle: { color: STOCK_COLOR, borderColor: STOCK_COLOR },
+                moveHandleStyle: { color: STOCK_COLOR },
+                textStyle:   { color: '#666' },
+                dataBackground: {
+                    lineStyle: { color: '#2a2a4a' },
+                    areaStyle: { color: '#1a1a30' },
+                },
+                selectedDataBackground: {
+                    lineStyle: { color: STOCK_COLOR, opacity: 0.4 },
+                    areaStyle: { color: STOCK_COLOR, opacity: 0.04 },
+                },
+            },
+        ],
+
+        series: [...barSeries, stockSeries],
+    });
+
+    window.addEventListener('resize', () => chart.resize());
+})();
+</script>
+
+<style>
+    * {
+        font-family: sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    html, body {
+        width: 100%;
+        height: 100%;
+        background: #16213e;
+    }
+
+    #chart {
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<script src="https://tinylytics.app/embed/ymKy7embDzqpj9NARJqA.js" defer></script>
+</html>
